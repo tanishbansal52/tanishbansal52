@@ -1,10 +1,13 @@
-<h1 align="center">Hey, I'm Tanish</h1>
-- 🔭 I’m currently working on a **Stock sentiment analyser!** (https://tanishbansal.notion.site/Building-a-stock-sentiment-tool-e17441c7a87144ca94f8a845def8c4e1)
+<h1 align="center">👋 Hey, I'm Tanish</h1>
 
-- 🌱 I’m currently doing the **Machine Leaning Specialization**
+- 🚀 I’m currently working on a **Stock sentiment analyser!** (here's my [journal](https://tanishbansal.notion.site/Building-a-stock-sentiment-tool-e17441c7a87144ca94f8a845def8c4e1) for it)
+
+- 🧩 I’m currently doing a **[Machine Learning Specialisation](https://www.coursera.org/specializations/machine-learning-introduction#courses)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanish-bansal52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanish-bansal52/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
