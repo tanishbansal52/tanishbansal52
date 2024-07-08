@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Tanish</h1>
-- 🔭 I’m currently working on **a stock sentiment analyser!**
+- 🔭 I’m currently working on [a stock sentiment analyser!](https://tanishbansal.notion.site/Building-a-stock-sentiment-tool-e17441c7a87144ca94f8a845def8c4e1)
 
 - 🌱 I’m currently doing the **Machine Leaning Specialization**
 
