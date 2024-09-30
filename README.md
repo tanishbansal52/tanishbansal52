@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Tanish</h1>
 
-- 🚀 I’m working on a [**Stock sentiment analyser!**]([stockAnalyser/](https://github.com/TanishB567/stockAnalyser)) (here's my [journal](https://tanishbansal.notion.site/Building-a-stock-sentiment-tool-e17441c7a87144ca94f8a845def8c4e1) for it)
+- 🚀 I’m working on a [**Stock sentiment analyser**](https://github.com/TanishB567/stockAnalyser) (here's my [journal](https://tanishbansal.notion.site/Building-a-stock-sentiment-tool-e17441c7a87144ca94f8a845def8c4e1) for it)
 
 - 🧩 I’m currently doing a **[Machine Learning Specialisation](https://www.coursera.org/specializations/machine-learning-introduction#courses)**, and learning **React** and **Django**! You can find implementations of my models [here](https://github.com/TanishB567/Machine-Learning-Models) :)
 
